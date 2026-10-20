@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "title": "Shadow Lab demonstration",
+    "synthetic": true,
+    "seed": 7,
+    "note": "Synthetic stations along the 10E meridian, one simultaneous reading."
+  },
+  "settings": {
+    "sigma_floor_deg": 0.1,
+    "refraction": true,
+    "seed": 12345,
+    "mc_samples": 3000
+  },
+  "stations": [
+    {
+      "name": "S1",
+      "lat": 60.0,
+      "lon": 10.0,
+      "time_utc": "2026-10-12T11:10:00Z",
+      "stick": 1.0,
+      "shadow": 2.411,
+      "sigma_stick": 0.002,
+      "sigma_shadow": 0.005
+    },
+    {
+      "name": "S2",
+      "lat": 46.0,
+      "lon": 10.0,
+      "time_utc": "2026-10-12T11:10:00Z",
+      "stick": 1.0,
+      "shadow": 1.349,
+      "sigma_stick": 0.002,
+      "sigma_shadow": 0.005
+    },
+    {
+      "name": "S3",
+      "lat": 32.0,
+      "lon": 10.0,
+      "time_utc": "2026-10-12T11:10:00Z",
+      "stick": 1.0,
+      "shadow": 0.826,
+      "sigma_stick": 0.002,
+      "sigma_shadow": 0.005
+    },
+    {
+      "name": "S4",
+      "lat": 18.0,
+      "lon": 10.0,
+      "time_utc": "2026-10-12T11:10:00Z",
+      "stick": 1.0,
+      "shadow": 0.476,
+      "sigma_stick": 0.002,
+      "sigma_shadow": 0.005
+    },
+    {
+      "name": "S5",
+      "lat": 4.0,
+      "lon": 10.0,
+      "time_utc": "2026-10-12T11:10:00Z",
+      "stick": 1.0,
+      "shadow": 0.204,
+      "sigma_stick": 0.002,
+      "sigma_shadow": 0.005
+    }
+  ],
+  "baselines": [
+    {
+      "a": "S1",
+      "b": "S2",
+      "km": 1555.4,
+      "sigma_km": 3.0,
+      "source": "odometer / road atlas (SYNTHETIC)"
+    },
+    {
+      "a": "S2",
+      "b": "S3",
+      "km": 1560.7,
+      "sigma_km": 3.0,
+      "source": "odometer / road atlas (SYNTHETIC)"
+    },
+    {
+      "a": "S3",
+      "b": "S4",
+      "km": 1558.2,
+      "sigma_km": 3.0,
+      "source": "odometer / road atlas (SYNTHETIC)"
+    },
+    {
+      "a": "S4",
+      "b": "S5",
+      "km": 1553.9,
+      "sigma_km": 3.0,
+      "source": "odometer / road atlas (SYNTHETIC)"
+    }
+  ]
+}

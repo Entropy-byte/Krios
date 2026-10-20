@@ -1,0 +1,1555 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -43.70197,
+      28.20798
+     ],
+     [
+      -36.05214,
+      30.53489
+     ],
+     [
+      -32.61608,
+      31.47234
+     ],
+     [
+      -29.98452,
+      32.13935
+     ],
+     [
+      -27.76994,
+      32.6641
+     ],
+     [
+      -25.82197,
+      33.09663
+     ],
+     [
+      -24.06347,
+      33.46275
+     ],
+     [
+      -22.44865,
+      33.77788
+     ],
+     [
+      -20.9477,
+      34.0521
+     ],
+     [
+      -19.53994,
+      34.29246
+     ],
+     [
+      -18.21033,
+      34.50411
+     ],
+     [
+      -16.94754,
+      34.69097
+     ],
+     [
+      -15.74277,
+      34.85608
+     ],
+     [
+      -14.58903,
+      35.00189
+     ],
+     [
+      -13.48067,
+      35.13039
+     ],
+     [
+      -12.41304,
+      35.24322
+     ],
+     [
+      -11.38225,
+      35.34177
+     ],
+     [
+      -10.38502,
+      35.42721
+     ],
+     [
+      -9.41854,
+      35.50056
+     ],
+     [
+      -8.4804,
+      35.5627
+     ],
+     [
+      -7.56849,
+      35.6144
+     ],
+     [
+      -6.68099,
+      35.65632
+     ],
+     [
+      -5.81627,
+      35.68909
+     ],
+     [
+      -4.97288,
+      35.71322
+     ],
+     [
+      -4.14955,
+      35.72921
+     ],
+     [
+      -3.34512,
+      35.73749
+     ],
+     [
+      -2.55856,
+      35.73845
+     ],
+     [
+      -1.78892,
+      35.73246
+     ],
+     [
+      -1.03535,
+      35.71983
+     ],
+     [
+      -0.29708,
+      35.70088
+     ],
+     [
+      0.42661,
+      35.67588
+     ],
+     [
+      1.13638,
+      35.64508
+     ],
+     [
+      1.83283,
+      35.60872
+     ],
+     [
+      2.51651,
+      35.56702
+     ],
+     [
+      3.18796,
+      35.52019
+     ],
+     [
+      3.84764,
+      35.46841
+     ],
+     [
+      4.496,
+      35.41187
+     ],
+     [
+      5.13347,
+      35.35073
+     ],
+     [
+      5.76043,
+      35.28515
+     ],
+     [
+      6.37726,
+      35.21527
+     ],
+     [
+      6.9843,
+      35.14123
+     ],
+     [
+      7.58188,
+      35.06317
+     ],
+     [
+      8.1703,
+      34.9812
+     ],
+     [
+      8.74985,
+      34.89545
+     ],
+     [
+      9.32082,
+      34.80602
+     ],
+     [
+      9.88346,
+      34.71302
+     ],
+     [
+      10.43802,
+      34.61655
+     ],
+     [
+      10.98474,
+      34.5167
+     ],
+     [
+      11.52384,
+      34.41356
+     ],
+     [
+      12.05555,
+      34.30722
+     ],
+     [
+      12.58006,
+      34.19775
+     ],
+     [
+      13.09757,
+      34.08525
+     ],
+     [
+      13.60827,
+      33.96977
+     ],
+     [
+      14.11235,
+      33.8514
+     ],
+     [
+      14.60998,
+      33.73019
+     ],
+     [
+      15.10133,
+      33.60622
+     ],
+     [
+      15.58655,
+      33.47954
+     ],
+     [
+      16.06581,
+      33.35022
+     ],
+     [
+      16.53926,
+      33.21831
+     ],
+     [
+      17.00703,
+      33.08386
+     ],
+     [
+      17.46928,
+      32.94693
+     ],
+     [
+      17.92614,
+      32.80757
+     ],
+     [
+      18.37774,
+      32.66582
+     ],
+     [
+      18.82421,
+      32.52174
+     ],
+     [
+      19.26567,
+      32.37535
+     ],
+     [
+      19.70224,
+      32.22672
+     ],
+     [
+      20.13405,
+      32.07587
+     ],
+     [
+      20.56121,
+      31.92285
+     ],
+     [
+      20.98382,
+      31.7677
+     ],
+     [
+      21.402,
+      31.61044
+     ],
+     [
+      21.81586,
+      31.45112
+     ],
+     [
+      22.22549,
+      31.28977
+     ],
+     [
+      22.63101,
+      31.12641
+     ],
+     [
+      23.0325,
+      30.96109
+     ],
+     [
+      23.43007,
+      30.79383
+     ],
+     [
+      23.8238,
+      30.62465
+     ],
+     [
+      24.2138,
+      30.45359
+     ],
+     [
+      24.60016,
+      30.28066
+     ],
+     [
+      24.98296,
+      30.10591
+     ],
+     [
+      25.36229,
+      29.92934
+     ],
+     [
+      25.73824,
+      29.75098
+     ],
+     [
+      26.11089,
+      29.57086
+     ],
+     [
+      26.48033,
+      29.38899
+     ],
+     [
+      26.84664,
+      29.20539
+     ],
+     [
+      27.2099,
+      29.02009
+     ],
+     [
+      27.57019,
+      28.8331
+     ],
+     [
+      27.92759,
+      28.64444
+     ],
+     [
+      28.28217,
+      28.45412
+     ],
+     [
+      28.63402,
+      28.26216
+     ],
+     [
+      28.98321,
+      28.06858
+     ],
+     [
+      29.32982,
+      27.87339
+     ],
+     [
+      29.67391,
+      27.6766
+     ],
+     [
+      30.01556,
+      27.47823
+     ],
+     [
+      30.35485,
+      27.27828
+     ],
+     [
+      30.69184,
+      27.07677
+     ],
+     [
+      31.02662,
+      26.87371
+     ],
+     [
+      31.35924,
+      26.66911
+     ],
+     [
+      31.68978,
+      26.46298
+     ],
+     [
+      32.01831,
+      26.25532
+     ],
+     [
+      32.3449,
+      26.04615
+     ],
+     [
+      32.66962,
+      25.83547
+     ],
+     [
+      32.99253,
+      25.62328
+     ],
+     [
+      33.31371,
+      25.4096
+     ],
+     [
+      33.63323,
+      25.19442
+     ],
+     [
+      33.95114,
+      24.97776
+     ],
+     [
+      34.26753,
+      24.75961
+     ],
+     [
+      34.58245,
+      24.53998
+     ],
+     [
+      34.89598,
+      24.31887
+     ],
+     [
+      35.20818,
+      24.09628
+     ],
+     [
+      35.51913,
+      23.87222
+     ],
+     [
+      35.82888,
+      23.64668
+     ],
+     [
+      36.13752,
+      23.41967
+     ],
+     [
+      36.4451,
+      23.19118
+     ],
+     [
+      36.75169,
+      22.96121
+     ],
+     [
+      37.05737,
+      22.72977
+     ],
+     [
+      37.3622,
+      22.49684
+     ],
+     [
+      37.66626,
+      22.26242
+     ],
+     [
+      37.96961,
+      22.02652
+     ],
+     [
+      38.27232,
+      21.78912
+     ],
+     [
+      38.57447,
+      21.55021
+     ],
+     [
+      38.87612,
+      21.30981
+     ],
+     [
+      39.17736,
+      21.06788
+     ],
+     [
+      39.47825,
+      20.82444
+     ],
+     [
+      39.77886,
+      20.57947
+     ],
+     [
+      40.07928,
+      20.33295
+     ],
+     [
+      40.37958,
+      20.08489
+     ],
+     [
+      40.67984,
+      19.83527
+     ],
+     [
+      40.98013,
+      19.58408
+     ],
+     [
+      41.28053,
+      19.3313
+     ],
+     [
+      41.58113,
+      19.07692
+     ],
+     [
+      41.88201,
+      18.82093
+     ],
+     [
+      42.18325,
+      18.56332
+     ],
+     [
+      42.48493,
+      18.30406
+     ],
+     [
+      42.78715,
+      18.04315
+     ],
+     [
+      43.09,
+      17.78055
+     ],
+     [
+      43.39356,
+      17.51626
+     ],
+     [
+      43.69792,
+      17.25024
+     ],
+     [
+      44.00319,
+      16.98249
+     ],
+     [
+      44.30947,
+      16.71298
+     ],
+     [
+      44.61684,
+      16.44168
+     ],
+     [
+      44.92542,
+      16.16857
+     ],
+     [
+      45.23531,
+      15.89362
+     ],
+     [
+      45.54662,
+      15.6168
+     ],
+     [
+      45.85947,
+      15.33809
+     ],
+     [
+      46.17396,
+      15.05745
+     ],
+     [
+      46.49022,
+      14.77485
+     ],
+     [
+      46.80838,
+      14.49026
+     ],
+     [
+      47.12856,
+      14.20364
+     ],
+     [
+      47.45089,
+      13.91495
+     ],
+     [
+      47.77551,
+      13.62415
+     ],
+     [
+      48.10257,
+      13.3312
+     ],
+     [
+      48.43221,
+      13.03605
+     ],
+     [
+      48.7646,
+      12.73866
+     ],
+     [
+      49.09988,
+      12.43897
+     ],
+     [
+      49.43823,
+      12.13694
+     ],
+     [
+      49.77983,
+      11.83251
+     ],
+     [
+      50.12485,
+      11.52562
+     ],
+     [
+      50.4735,
+      11.21621
+     ],
+     [
+      50.82597,
+      10.90421
+     ],
+     [
+      51.18248,
+      10.58956
+     ],
+     [
+      51.54324,
+      10.27217
+     ],
+     [
+      51.90851,
+      9.95198
+     ],
+     [
+      52.27852,
+      9.6289
+     ],
+     [
+      52.65353,
+      9.30284
+     ],
+     [
+      53.03383,
+      8.97371
+     ],
+     [
+      53.41972,
+      8.6414
+     ],
+     [
+      53.81149,
+      8.30582
+     ],
+     [
+      54.2095,
+      7.96684
+     ],
+     [
+      54.61409,
+      7.62436
+     ],
+     [
+      55.02565,
+      7.27822
+     ],
+     [
+      55.44458,
+      6.92831
+     ],
+     [
+      55.87133,
+      6.57445
+     ],
+     [
+      56.30636,
+      6.2165
+     ],
+     [
+      56.75018,
+      5.85428
+     ],
+     [
+      57.20335,
+      5.48759
+     ],
+     [
+      57.66645,
+      5.11624
+     ],
+     [
+      58.14015,
+      4.73999
+     ],
+     [
+      58.62515,
+      4.3586
+     ],
+     [
+      59.12222,
+      3.9718
+     ],
+     [
+      59.63223,
+      3.57929
+     ],
+     [
+      60.15611,
+      3.18076
+     ],
+     [
+      60.69491,
+      2.77584
+     ],
+     [
+      61.24979,
+      2.36412
+     ],
+     [
+      61.82206,
+      1.94517
+     ],
+     [
+      62.41317,
+      1.51847
+     ],
+     [
+      63.02479,
+      1.08346
+     ],
+     [
+      63.65881,
+      0.6395
+     ],
+     [
+      64.31738,
+      0.18583
+     ],
+     [
+      65.00303,
+      -0.27839
+     ],
+     [
+      65.71867,
+      -0.75416
+     ],
+     [
+      66.46776,
+      -1.24265
+     ],
+     [
+      67.25441,
+      -1.74525
+     ],
+     [
+      68.08361,
+      -2.26365
+     ],
+     [
+      68.96149,
+      -2.7999
+     ],
+     [
+      69.8957,
+      -3.35658
+     ],
+     [
+      70.89606,
+      -3.93696
+     ],
+     [
+      71.97548,
+      -4.54534
+     ],
+     [
+      73.15152,
+      -5.18756
+     ],
+     [
+      74.44918,
+      -5.87188
+     ],
+     [
+      75.90617,
+      -6.61074
+     ],
+     [
+      77.58435,
+      -7.42445
+     ],
+     [
+      79.59929,
+      -8.35082
+     ],
+     [
+      82.22335,
+      -9.4786
+     ],
+     [
+      86.67644,
+      -11.2035
+     ],
+     [
+      89.73653,
+      -12.26179
+     ]
+    ]
+   },
+   "properties": {
+    "kind": "central_line",
+    "eclipse_type": "Total",
+    "greatest_utc": "2027-08-02T10:06:39.2Z",
+    "ephemeris": "analytic (Meeus ELP-2000/82 + VSOP87D truncated)",
+    "note": "approximate; see Krios docs"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.18201,
+     25.49754
+    ]
+   },
+   "properties": {
+    "kind": "greatest_eclipse",
+    "time_utc": "2027-08-02T10:06:39.2Z",
+    "magnitude": 1.079,
+    "gamma": 0.14203,
+    "duration_s": 382.4,
+    "sun_altitude_deg": 81.7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.70197,
+     28.20798
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T08:25:04Z",
+    "path_width_km": 198.5,
+    "sun_altitude_deg": 0.7,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -24.06347,
+     33.46275
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T08:31:04Z",
+    "path_width_km": 217.3,
+    "sun_altitude_deg": 19.6,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.94754,
+     34.69097
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T08:36:04Z",
+    "path_width_km": 223.9,
+    "sun_altitude_deg": 26.6,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -11.38225,
+     35.34177
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T08:41:04Z",
+    "path_width_km": 228.8,
+    "sun_altitude_deg": 32.2,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.68099,
+     35.65632
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T08:46:04Z",
+    "path_width_km": 232.8,
+    "sun_altitude_deg": 37.0,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.55856,
+     35.73845
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T08:51:04Z",
+    "path_width_km": 236.2,
+    "sun_altitude_deg": 41.4,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.13638,
+     35.64508
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T08:56:04Z",
+    "path_width_km": 239.1,
+    "sun_altitude_deg": 45.3,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.496,
+     35.41187
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:01:04Z",
+    "path_width_km": 241.6,
+    "sun_altitude_deg": 49.0,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.58188,
+     35.06317
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:06:04Z",
+    "path_width_km": 243.9,
+    "sun_altitude_deg": 52.5,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.43802,
+     34.61655
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:11:04Z",
+    "path_width_km": 245.8,
+    "sun_altitude_deg": 55.9,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.09757,
+     34.08525
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:16:04Z",
+    "path_width_km": 247.5,
+    "sun_altitude_deg": 59.1,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.58655,
+     33.47954
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:21:04Z",
+    "path_width_km": 249.0,
+    "sun_altitude_deg": 62.1,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.92614,
+     32.80757
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:26:04Z",
+    "path_width_km": 250.3,
+    "sun_altitude_deg": 65.1,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.13405,
+     32.07587
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:31:04Z",
+    "path_width_km": 251.5,
+    "sun_altitude_deg": 67.9,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.22549,
+     31.28977
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:36:04Z",
+    "path_width_km": 252.4,
+    "sun_altitude_deg": 70.6,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.2138,
+     30.45359
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:41:04Z",
+    "path_width_km": 253.2,
+    "sun_altitude_deg": 73.2,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.11089,
+     29.57086
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:46:04Z",
+    "path_width_km": 253.9,
+    "sun_altitude_deg": 75.6,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.92759,
+     28.64444
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:51:04Z",
+    "path_width_km": 254.4,
+    "sun_altitude_deg": 77.9,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.67391,
+     27.6766
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T09:56:04Z",
+    "path_width_km": 254.7,
+    "sun_altitude_deg": 79.7,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.35924,
+     26.66911
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:01:04Z",
+    "path_width_km": 254.9,
+    "sun_altitude_deg": 81.1,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.99253,
+     25.62328
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:06:04Z",
+    "path_width_km": 255.0,
+    "sun_altitude_deg": 81.7,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.58245,
+     24.53998
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:11:04Z",
+    "path_width_km": 254.9,
+    "sun_altitude_deg": 81.4,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.13752,
+     23.41967
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:16:04Z",
+    "path_width_km": 254.7,
+    "sun_altitude_deg": 80.2,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.66626,
+     22.26242
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:21:04Z",
+    "path_width_km": 254.4,
+    "sun_altitude_deg": 78.4,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.17736,
+     21.06788
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:26:04Z",
+    "path_width_km": 253.9,
+    "sun_altitude_deg": 76.3,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.67984,
+     19.83527
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:31:04Z",
+    "path_width_km": 253.3,
+    "sun_altitude_deg": 73.9,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.18325,
+     18.56332
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:36:04Z",
+    "path_width_km": 252.5,
+    "sun_altitude_deg": 71.4,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.69792,
+     17.25024
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:41:04Z",
+    "path_width_km": 251.6,
+    "sun_altitude_deg": 68.7,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.23531,
+     15.89362
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:46:04Z",
+    "path_width_km": 250.5,
+    "sun_altitude_deg": 65.9,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     46.80838,
+     14.49026
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:51:04Z",
+    "path_width_km": 249.2,
+    "sun_altitude_deg": 62.9,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     48.43221,
+     13.03605
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T10:56:04Z",
+    "path_width_km": 247.7,
+    "sun_altitude_deg": 59.9,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     50.12485,
+     11.52562
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T11:01:04Z",
+    "path_width_km": 246.1,
+    "sun_altitude_deg": 56.8,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     51.90851,
+     9.95198
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T11:06:04Z",
+    "path_width_km": 244.1,
+    "sun_altitude_deg": 53.5,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     53.81149,
+     8.30582
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T11:11:04Z",
+    "path_width_km": 242.0,
+    "sun_altitude_deg": 50.0,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.87133,
+     6.57445
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T11:16:04Z",
+    "path_width_km": 239.5,
+    "sun_altitude_deg": 46.3,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     58.14015,
+     4.73999
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T11:21:04Z",
+    "path_width_km": 236.7,
+    "sun_altitude_deg": 42.4,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     60.69491,
+     2.77584
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T11:26:04Z",
+    "path_width_km": 233.4,
+    "sun_altitude_deg": 38.2,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     63.65881,
+     0.6395
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T11:31:04Z",
+    "path_width_km": 229.6,
+    "sun_altitude_deg": 33.5,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     67.25441,
+     -1.74525
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T11:36:04Z",
+    "path_width_km": 224.9,
+    "sun_altitude_deg": 28.1,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.97548,
+     -4.54534
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T11:41:04Z",
+    "path_width_km": 218.8,
+    "sun_altitude_deg": 21.5,
+    "umbra_type": "total"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.59929,
+     -8.35082
+    ]
+   },
+   "properties": {
+    "kind": "sample",
+    "time_utc": "2027-08-02T11:46:04Z",
+    "path_width_km": 209.5,
+    "sun_altitude_deg": 11.9,
+    "umbra_type": "total"
+   }
+  }
+ ]
+}

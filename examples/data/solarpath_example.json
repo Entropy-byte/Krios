@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "title": "Solar Path Lab demonstration",
+    "synthetic": true,
+    "seed": 3,
+    "note": "Synthetic sunrise/sunset readings (45 s scatter) at two places in opposite hemispheres."
+  },
+  "settings": {
+    "step_days": 10,
+    "model_sigma_s": 90.0
+  },
+  "sites": [
+    {
+      "name": "Greenwich-like (north)",
+      "lat": 51.48,
+      "lon": 0.0,
+      "height_m": 0.0
+    },
+    {
+      "name": "Sydney-like (south)",
+      "lat": -33.87,
+      "lon": 151.21,
+      "height_m": 0.0
+    }
+  ],
+  "year": 2027,
+  "observations": [
+    {
+      "site": "Greenwich-like (north)",
+      "kind": "sunrise",
+      "date": "2027-03-20",
+      "observed_utc": "2027-03-20T06:05:00Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Greenwich-like (north)",
+      "kind": "sunset",
+      "date": "2027-03-20",
+      "observed_utc": "2027-03-20T18:10:44Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Greenwich-like (north)",
+      "kind": "sunrise",
+      "date": "2027-06-21",
+      "observed_utc": "2027-06-21T03:43:03Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Greenwich-like (north)",
+      "kind": "sunset",
+      "date": "2027-06-21",
+      "observed_utc": "2027-06-21T20:20:27Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Greenwich-like (north)",
+      "kind": "sunrise",
+      "date": "2027-09-23",
+      "observed_utc": "2027-09-23T05:46:52Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Greenwich-like (north)",
+      "kind": "sunset",
+      "date": "2027-09-23",
+      "observed_utc": "2027-09-23T17:56:34Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Greenwich-like (north)",
+      "kind": "sunrise",
+      "date": "2027-12-21",
+      "observed_utc": "2027-12-21T08:01:28Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Greenwich-like (north)",
+      "kind": "sunset",
+      "date": "2027-12-21",
+      "observed_utc": "2027-12-21T15:52:45Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Sydney-like (south)",
+      "kind": "sunrise",
+      "date": "2027-03-20",
+      "observed_utc": "2027-03-19T19:57:11Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Sydney-like (south)",
+      "kind": "sunset",
+      "date": "2027-03-20",
+      "observed_utc": "2027-03-20T08:09:48Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Sydney-like (south)",
+      "kind": "sunrise",
+      "date": "2027-06-21",
+      "observed_utc": "2027-06-20T21:00:07Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Sydney-like (south)",
+      "kind": "sunset",
+      "date": "2027-06-21",
+      "observed_utc": "2027-06-21T06:53:32Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Sydney-like (south)",
+      "kind": "sunrise",
+      "date": "2027-09-23",
+      "observed_utc": "2027-09-22T19:44:06Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Sydney-like (south)",
+      "kind": "sunset",
+      "date": "2027-09-23",
+      "observed_utc": "2027-09-23T07:51:16Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Sydney-like (south)",
+      "kind": "sunrise",
+      "date": "2027-12-21",
+      "observed_utc": "2027-12-20T18:39:46Z",
+      "sigma_s": 60.0
+    },
+    {
+      "site": "Sydney-like (south)",
+      "kind": "sunset",
+      "date": "2027-12-21",
+      "observed_utc": "2027-12-21T09:05:00Z",
+      "sigma_s": 60.0
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "title": "Eclipse Lab demonstration",
+    "synthetic": true,
+    "seed": 21,
+    "note": "Synthetic contact times (3 s scatter) around the Krios prediction - NOT a real observation."
+  },
+  "settings": {
+    "model_sigma_s": 20.0
+  },
+  "eclipse": {
+    "date": "2027-08-02",
+    "body": "solar"
+  },
+  "observer": {
+    "name": "Observer (demo)",
+    "lat": 25.69,
+    "lon": 32.64,
+    "height_m": 80.0
+  },
+  "observations": [
+    {
+      "event": "C1",
+      "time_utc": "2027-08-02T08:40:14.3Z",
+      "sigma_s": 3.0
+    },
+    {
+      "event": "C2",
+      "time_utc": "2027-08-02T10:02:08.4Z",
+      "sigma_s": 3.0
+    },
+    {
+      "event": "max",
+      "time_utc": "2027-08-02T10:05:08.9Z",
+      "sigma_s": 3.0
+    },
+    {
+      "event": "C3",
+      "time_utc": "2027-08-02T10:08:29.3Z",
+      "sigma_s": 3.0
+    },
+    {
+      "event": "C4",
+      "time_utc": "2027-08-02T11:26:31.0Z",
+      "sigma_s": 3.0
+    }
+  ]
+}
