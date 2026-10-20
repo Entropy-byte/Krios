@@ -200,6 +200,29 @@ def cmd_eclipse_local(args) -> int:
     return 0
 
 
+def cmd_eclipse_path(args) -> int:
+    from .eclipse.path import central_line
+    if args.delta_t is not None:
+        ts.set_delta_t_override(args.delta_t)
+    day = ts.parse_datetime(args.date)
+    start, end = ts.utc_to_tt(day) - 1.0, ts.utc_to_tt(day) + 2.0
+    cfg = _config(args)
+    ephem = build_ephemeris(args, start - 5, end + 5, _log)
+    sols = find_eclipses(start, end, ("solar",), ephem, cfg)
+    if not sols:
+        print(f"No solar eclipse found around {args.date}.", file=sys.stderr)
+        return 2
+    gj = central_line(ephem, cfg, sols[0], step_s=args.step)
+    text = json.dumps(gj, indent=1)
+    if args.out:
+        with open(args.out, "w", encoding="utf-8") as f:
+            f.write(text)
+        _log(f"wrote {args.out} ({len(gj['features'])} features); open it in geojson.io, QGIS or Leaflet")
+    else:
+        print(text)
+    return 0
+
+
 # ---------------------------------------------------------------- orbit
 def cmd_orbit(args) -> int:
     from .dynamics import integrate
@@ -383,6 +406,14 @@ def build_parser() -> argparse.ArgumentParser:
     l.add_argument("--format", choices=["table", "json"], default="table")
     _add_source_options(l)
     l.set_defaults(func=cmd_eclipse_local)
+
+    # eclipse path
+    pa = ep.add_parser("path", help="central line of a total/annular eclipse as GeoJSON")
+    pa.add_argument("--date", required=True, help="UTC date of the eclipse, e.g. 2027-08-02")
+    pa.add_argument("--step", type=float, default=60.0, help="seconds between line vertices")
+    pa.add_argument("--out", default=None, help="GeoJSON file (default stdout)")
+    _add_source_options(pa)
+    pa.set_defaults(func=cmd_eclipse_path)
 
     # orbit
     o = sub.add_parser("orbit", help="integrate the solar system (Newton or 1PN) and export states")
