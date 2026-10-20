@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "krios"
+version = "0.1.0"
+description = "Celestial-mechanics engine (Newton / 1PN-GR N-body, NASA JPL Horizons) with an eclipse predictor and reproducible measurement-vs-prediction labs"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name = "entropy-byte"}]
+keywords = ["astronomy", "eclipse", "orbit", "general relativity", "JPL Horizons", "education", "experiments"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Astronomy",
+    "Topic :: Education",
+]
+dependencies = ["numpy>=1.23", "scipy>=1.9"]
+
+[project.optional-dependencies]
+plots = ["matplotlib>=3.5"]
+dev = ["pytest"]
+
+[project.urls]
+Homepage = "https://github.com/entropy-byte/krios"
+Issues = "https://github.com/entropy-byte/krios/issues"
+
+[project.scripts]
+krios = "krios.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
